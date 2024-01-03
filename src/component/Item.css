@@ -1,0 +1,25 @@
+.expense {
+    background-color: #fff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+    padding: 15px;
+    color: #333;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    position: relative; 
+    border-right: 3px solid red;
+
+}
+
+.income {
+    background-color: #fff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+    padding: 15px;
+    color: #333;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    position: relative; 
+    border-right: 3px solid #2ccc74;
+}
+
